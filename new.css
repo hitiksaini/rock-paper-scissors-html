@@ -1,0 +1,93 @@
+body {
+
+  background-color: #f1f9f9;
+}
+button {
+
+  border: 0px;
+  border-radius: 50px;
+  padding: 20px 30px;
+  background-color: #fff;
+}
+button:hover{
+  background-color: #142850;
+}
+.fas:hover{
+  color: #fff;
+}
+a{
+  font-weight: bold;
+    color: #00a8cc;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #142850;
+  text-decoration: none;
+}
+tr{
+text-align: center;
+}
+.score{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #142850;
+  text-align: center;
+}
+.made{
+color:#27496d;
+  font-size: 1.8rem;
+  text-align: center;
+
+}
+.message{
+font-size: 5rem;
+font-weight: bold;
+color: #00a8cc;
+text-align: center;
+}
+.yourchoice{
+  font-weight: bold;
+  color:#00a8cc;
+  font-size: 1.3rem;
+  text-align: center;
+
+}
+.head{
+  font-size: 4rem;
+  color: #27496d;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.image {
+  width: 50px;
+  float: left;
+  margin: auto 5px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 30px;
+}
+
+.centered {
+  position: absolute;
+}
+
+.compimage {
+  width: 50px;
+  float: left;
+  margin: auto 5px;
+}
+
+.youimage {
+  width: 50px;
+  float: left;
+  margin: auto 5px;
+}
